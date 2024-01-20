@@ -1,2 +1,5 @@
 /*.depend
 /DiskTest.layout
+/bin
+/obj
+
